@@ -1,0 +1,2 @@
+gcc -o ./build/exec ./main.c -lSDL2main -lSDL2
+./build/exec
